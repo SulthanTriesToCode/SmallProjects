@@ -28,6 +28,10 @@ namespace ChooseYourOwnAdventure
         Console.Write("You walk into the hallway and see a light coming from under a door down the hall. You walk towards it. Do you open it or knock?");
         Console.Write("\n");
       }
+      Console.Write("Type OPEN or KNOCK: ");
+      string doorChoice = Console.ReadLine();
+      doorChoice = doorChoice.ToUpper();
+      
     }
   }
 }
