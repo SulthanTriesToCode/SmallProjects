@@ -1,3 +1,4 @@
 {
-  "dotnet.defaultSolution": "ChooseYourAdventure.sln"
+  "dotnet.defaultSolution": "ChooseYourAdventure.sln",
+  "gitdoc.enabled": true
 }
