@@ -1,0 +1,59 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# NuGet Packages
+*.nupkg
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.sln.ide
+
+# Resharper files
+_ReSharper*/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# Roslyn cache directories
+*.ide/
+
+# Unity generated folders
+Temp/
+UnityGenerated/
+
+# Folders to ignore
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og*/

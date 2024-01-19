@@ -1,0 +1,14 @@
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\bin\Debug\net8.0\MadLibs.exe
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\bin\Debug\net8.0\MadLibs.deps.json
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\bin\Debug\net8.0\MadLibs.runtimeconfig.json
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\bin\Debug\net8.0\MadLibs.dll
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\bin\Debug\net8.0\MadLibs.pdb
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\obj\Debug\net8.0\MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\obj\Debug\net8.0\MadLibs.AssemblyInfoInputs.cache
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\obj\Debug\net8.0\MadLibs.AssemblyInfo.cs
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\obj\Debug\net8.0\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\obj\Debug\net8.0\MadLibs.dll
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\obj\Debug\net8.0\refint\MadLibs.dll
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\obj\Debug\net8.0\MadLibs.pdb
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\obj\Debug\net8.0\MadLibs.genruntimeconfig.cache
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\MadLibs\obj\Debug\net8.0\ref\MadLibs.dll
