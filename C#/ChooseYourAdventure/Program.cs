@@ -18,11 +18,20 @@ namespace ChooseYourOwnAdventure
       string noiseChoice = Console.ReadLine();
       // turn noisechoice string into uppercase
       noiseChoice = noiseChoice.ToUpper();
-      Console.WriteLine(noiseChoice);
-      Console.WriteLine("\n");
+      // if noiseChoice is "NO" print, "Not much of an adventure if we don't leave our room! THE END.", then break the program. else if, noiseChoice is "YES" print, "You walk into the hallway and see a light coming from under a door down the hall. You walk towards it. Do you open it or knock?"
+      if (noiseChoice == "NO")
+      {
+        Console.WriteLine("Not much of an adventure if we don't leave our room! THE END.");
+      }
+      else if (noiseChoice == "YES")
+      {
+        Console.Write("You walk into the hallway and see a light coming from under a door down the hall. You walk towards it. Do you open it or knock?");
+        Console.Write("\n");
+      }
     }
   }
 }
+
 
 
 
