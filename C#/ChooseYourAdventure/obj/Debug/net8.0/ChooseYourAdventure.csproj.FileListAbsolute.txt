@@ -1,0 +1,15 @@
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\bin\Debug\net8.0\ChooseYourAdventure.exe
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\bin\Debug\net8.0\ChooseYourAdventure.deps.json
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\bin\Debug\net8.0\ChooseYourAdventure.runtimeconfig.json
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\bin\Debug\net8.0\ChooseYourAdventure.dll
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\bin\Debug\net8.0\ChooseYourAdventure.pdb
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\obj\Debug\net8.0\ChooseYourAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\obj\Debug\net8.0\ChooseYourAdventure.AssemblyInfoInputs.cache
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\obj\Debug\net8.0\ChooseYourAdventure.AssemblyInfo.cs
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\obj\Debug\net8.0\ChooseYourAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\obj\Debug\net8.0\ChooseYourAdventure.sourcelink.json
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\obj\Debug\net8.0\ChooseYourAdventure.dll
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\obj\Debug\net8.0\refint\ChooseYourAdventure.dll
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\obj\Debug\net8.0\ChooseYourAdventure.pdb
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\obj\Debug\net8.0\ChooseYourAdventure.genruntimeconfig.cache
+C:\Users\Lynn\Documents\GitHub\SmallProjects\C#\ChooseYourAdventure\obj\Debug\net8.0\ref\ChooseYourAdventure.dll
