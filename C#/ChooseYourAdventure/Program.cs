@@ -6,9 +6,6 @@ namespace ChooseYourOwnAdventure
   {
       static void Main(string[] args)
     {
-      /* THE MYSTERIOUS NOISE */
-
-      // Start by asking for the user's name:
       Console.Write("What is your name?: ");
       string name = Console.ReadLine();
       Console.WriteLine($"Hello, {name}! Welcome to our story.");
@@ -16,12 +13,11 @@ namespace ChooseYourOwnAdventure
       Console.Write("\n");
       Console.Write("Type YES or NO: ");
       string noiseChoice = Console.ReadLine();
-      // turn noisechoice string into uppercase
       noiseChoice = noiseChoice.ToUpper();
-      // if noiseChoice is "NO" print, "Not much of an adventure if we don't leave our room! THE END.", then break the program. else if, noiseChoice is "YES" print, "You walk into the hallway and see a light coming from under a door down the hall. You walk towards it. Do you open it or knock?"
       if (noiseChoice == "NO")
       {
         Console.WriteLine("Not much of an adventure if we don't leave our room! THE END.");
+        return;
       }
       else if (noiseChoice == "YES")
       {
@@ -31,7 +27,15 @@ namespace ChooseYourOwnAdventure
       Console.Write("Type OPEN or KNOCK: ");
       string doorChoice = Console.ReadLine();
       doorChoice = doorChoice.ToUpper();
-      
+      if (doorChoice == "KNOCK")
+      {
+        Console.Write("A voice behind the door speaks. It says, Answer this riddle:");
+        Console.Write("\n");
+        Console.Write("Poor people have it. Rich people need it. If you eat it you die. What is it?");
+      } else if (doorChoice == "OPEN")
+      {
+        Console.Write("WIP");
+      }
     }
   }
 }
