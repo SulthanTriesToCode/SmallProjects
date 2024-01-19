@@ -48,7 +48,26 @@ namespace ChooseYourOwnAdventure
         }
       } else if (doorChoice == "OPEN")
       {
-        Console.Write("WIP");
+        Console.Write("The door is locked! See if one of your three keys will open it.");
+        Console.Write("\n");
+        Console.Write("Enter a number (1-3): ");
+        string keyChoice = Console.ReadLine();
+        keyChoice = keyChoice.ToUpper();
+        switch (keyChoice)
+        {
+          case "1":
+            Console.Write("You choose the first key. Lucky choice! The door opens and NOTHING is there. Strange... THE END.");
+            return;
+          case "2":
+            Console.Write("You choose the second key. The door doesn't open. THE END.");
+            return;
+          case "3":
+            Console.Write("You choose the third key. The door doesn't open. THE END.");
+            return;
+          default:
+            Console.Write("You did not choose a valid key. THE END.");
+            return;
+        }
       }
     }
   }
