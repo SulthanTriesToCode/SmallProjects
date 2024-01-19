@@ -32,6 +32,20 @@ namespace ChooseYourOwnAdventure
         Console.Write("A voice behind the door speaks. It says, Answer this riddle:");
         Console.Write("\n");
         Console.Write("Poor people have it. Rich people need it. If you eat it you die. What is it?");
+        Console.Write("\n");
+        Console.Write("Type your answer: ");
+        string riddleAnswer = Console.ReadLine();
+        riddleAnswer = riddleAnswer.ToUpper();
+        if (riddleAnswer == "NOTHING")
+        {
+          Console.Write("The door opens and NOTHING is there. You turn off the light and run back to your room and lock the door. THE END.");
+          return;
+        }
+        else
+        {
+          Console.Write("You answered incorrectly. The door doesn't open. THE END.");
+          return;
+        }
       } else if (doorChoice == "OPEN")
       {
         Console.Write("WIP");
