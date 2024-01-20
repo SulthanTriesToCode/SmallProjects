@@ -6,6 +6,6 @@ luxurious_lamp_description = "Luxurious Lamp. Glass and iron. 36 inches tall. Br
 luxurious_lamp_price = 52.15
 sales_tax = .088
 
-custoemr_one_total = 0
+customer_one_total = 0
 customer_one_itemization = ""
 
