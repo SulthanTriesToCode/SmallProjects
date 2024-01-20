@@ -69,6 +69,3 @@ greeting = "Hello, "
 name = "Lynn"
 greeting_with_name = greeting + name
 
-modulo = 14 % 4
-print(modulo)
-
