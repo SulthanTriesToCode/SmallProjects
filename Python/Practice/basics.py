@@ -63,5 +63,7 @@ And why should I not speak to you?
 print(to_you)
 
 # Review
+my_age = 20
+half_my_age = my_age / 2
 
 
