@@ -115,5 +115,3 @@ elif grade >= 60:
   print("D")
 else:
   print("F")
-
-print((4 <= 2 * 3) and (7 + 1 == 8))
