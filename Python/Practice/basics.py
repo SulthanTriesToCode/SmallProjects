@@ -69,5 +69,6 @@ print(age_is_12)
 # Relational Operators
 statement_one = (5 * 2) - 1 == 8 + 1
 print(statement_one)
-statement
+statement_two = 13 - 6 != (3 * 2) + 1
+
 
