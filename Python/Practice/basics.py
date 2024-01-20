@@ -37,7 +37,4 @@ string4 = "the soft air just ruffled the water and "
 string5 = "caused a pleasant motion among the trees as we approached the shore, "
 string6 = "from which it wafted the most delightful scent of flowers and hay."
 
-# Define message below:
 
-
-#print(message)
