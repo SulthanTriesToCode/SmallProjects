@@ -71,5 +71,6 @@ statement_one = (5 * 2) - 1 == 8 + 1
 print(statement_one)
 statement_two = 13 - 6 != (3 * 2) + 1
 print(statement_two)
-
+statement_three = 3 * (2 - 1) == 4 - 1
+print(statement_three)
 
