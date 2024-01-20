@@ -72,3 +72,6 @@ greeting_with_name = greeting + name
 # Booleans
 age_is_12 = False
 print(age_is_12)
+
+# Relational Operators
+
