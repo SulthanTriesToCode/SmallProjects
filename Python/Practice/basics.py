@@ -79,13 +79,4 @@ if user_name == "Dave":
   print("Get off my computer Dave!")
 
 # Relational Operators 2
-x = 20
-y = 20
-# Checks if same
-if x == y:
-  print("These numbers are the same")
-
-credits = 120
-# Checks if greater than or equal to
-if credits >= 120: 
-  print("You have enough credits to graduate!")
+x == y 
