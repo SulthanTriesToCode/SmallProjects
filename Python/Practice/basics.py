@@ -70,7 +70,5 @@ print(age_is_20)
 
 # Relational Operators
 Equals = 1 == 1     # True
-2 != 4     # True
-3 == 5     # False
-'7' == 7   # False
+Not_Equals = 2 != 4     # True
 
