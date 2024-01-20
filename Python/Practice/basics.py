@@ -71,9 +71,3 @@ print(age_is_20)
 # Relational Operators
 Equals = 1 == 1     # True
 Not_Equals = 2 != 4     # True
-
-# Boolean Variables
-my_baby_bool = "true"
-print(type(my_baby_bool))
-my_baby_bool_two = True
-print(type(my_baby_bool_two))
