@@ -74,4 +74,4 @@ Not_Equals = 2 != 4     # True
 
 # Boolean Variables
 my_baby_bool = "true"
-type(my_baby_bool)  # str
+print(type(my_baby_bool))
