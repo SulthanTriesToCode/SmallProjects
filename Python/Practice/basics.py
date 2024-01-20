@@ -73,3 +73,4 @@ Equals = 1 == 1     # True
 Not_Equals = 2 != 4     # True
 
 # Boolean Variables
+my_baby_bool = "true"
