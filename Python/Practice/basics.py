@@ -86,5 +86,5 @@ if x == y:
   print("These numbers are the same")
 
 credits = 120
-# Write the second if statement here:
-if credits == 120
+if credits == 120:
+  print("You have enough credits to graduate!")
