@@ -87,3 +87,4 @@ if x == y:
 
 credits = 120
 # Write the second if statement here:
+if credits == 120
