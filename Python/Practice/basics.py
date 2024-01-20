@@ -65,7 +65,8 @@ print(to_you)
 # Booleans
 age_is_12 = False
 print(age_is_12)
-age_is_20=
+age_is_20 = True
+print(age_is_20)
 
 # Relational Operators
 statement_one = (5 * 2) - 1 == 8 + 1
