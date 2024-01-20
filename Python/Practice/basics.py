@@ -72,5 +72,8 @@ print(age_is_20)
 Equals = 1 == 1     # True
 Not_Equals = 2 != 4     # True
 
-# If statememts
+# If statements
+user_name = "Dave"
 
+if user_name != "Dave":
+  print("Get off my computer Dave!")
