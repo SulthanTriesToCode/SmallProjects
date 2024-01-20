@@ -81,6 +81,7 @@ if user_name == "Dave":
 # Relational Operators 2
 x = 20
 y = 20
+# Checks if same
 if x == y:
   print("These numbers are the same")
 
