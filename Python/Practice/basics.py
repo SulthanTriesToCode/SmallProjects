@@ -62,13 +62,6 @@ And why should I not speak to you?
 
 print(to_you)
 
-# Review
-my_age = 20
-half_my_age = my_age / 2
-greeting = "Hello, "
-name = "Lynn"
-greeting_with_name = greeting + name
-
 # Booleans
 age_is_12 = False
 print(age_is_12)
