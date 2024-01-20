@@ -72,3 +72,4 @@ print(age_is_20)
 Equals = 1 == 1     # True
 Not_Equals = 2 != 4     # True
 
+# Boolean Variables
