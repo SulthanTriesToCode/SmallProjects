@@ -17,7 +17,7 @@ customer_one_total += customer_one_tax
 
 print("Customer One Items:")
 print(customer_one_itemization)
-
+print("Customer One Total:")
 
 
 
