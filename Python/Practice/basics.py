@@ -69,4 +69,6 @@ greeting = "Hello, "
 name = "Lynn"
 greeting_with_name = greeting + name
 
-
+total_cost = 5
+total_cost += 10
+print(total_cost)
