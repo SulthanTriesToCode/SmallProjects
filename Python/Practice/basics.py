@@ -16,7 +16,7 @@ print(25 * 68 + 13 / 28)
 quilt_width = 8
 quilt_length = 12
 
-print( quilt_width * quilt_length)
+print(quilt_width * quilt_length)
 
 quilt_length = 8
 
