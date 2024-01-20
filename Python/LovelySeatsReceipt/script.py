@@ -7,4 +7,4 @@ luxurious_lamp_price = 52.15
 sales_tax = .088
 
 custoemr_one_total = 0
-
+customer
