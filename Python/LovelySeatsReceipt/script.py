@@ -11,7 +11,7 @@ customer_one_itemization = ""
 customer_one_total += lovely_loveseat_price
 customer_one_itemization += lovely_loveseat_description
 customer_one_total += luxurious_lamp_price
-
+customer
 
 
 
