@@ -69,10 +69,11 @@ age_is_20 = True
 print(age_is_20)
 
 # Relational Operators
-statement_one = (5 * 2) - 1 == 8 + 1
-print(statement_one)
-statement_two = 13 - 6 != (3 * 2) + 1
-print(statement_two)
-statement_three = 3 * (2 - 1) == 4 - 1
-print(statement_three)
+1 == 1     # True
+
+2 != 4     # True
+
+3 == 5     # False
+
+'7' == 7   # False
 
