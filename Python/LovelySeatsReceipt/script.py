@@ -8,5 +8,7 @@ sales_tax = .088
 
 customer_one_total = 0
 customer_one_itemization = ""
-customer_one_itemization
+customer_one_itemization += lovely_loveseat_description
+
+
 
