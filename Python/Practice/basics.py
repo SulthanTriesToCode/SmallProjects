@@ -88,3 +88,32 @@ x < y # x is less than y
 x >= y # x is greater than or equal to y
 x <= y # x is less than or equal to y
 
+# Relational Operators 3
+(1 + 1 == 2) and (2 + 2 == 4)   # True
+True or (3 + 4 == 7)    # True
+not 7 < 0       # True
+
+# Else statements
+credits = 120
+gpa = 1.9
+
+if (credits >= 120) and (gpa >= 2.0):
+  print("You meet the requirements to graduate!")
+else:
+  print("You do not meet the requirements to graduate.")
+
+# Else If statements
+grade = 86
+
+if grade >= 90:
+  print("A")
+elif grade >= 80:
+  print("B")
+elif grade >= 70:
+  print("C")
+elif grade >= 60:
+  print("D")
+else:
+  print("F")
+
+print((4 <= 2 * 3) and (7 + 1 == 8))
