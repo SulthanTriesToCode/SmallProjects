@@ -79,6 +79,8 @@ if user_name == "Dave":
   print("Get off my computer Dave!")
 
 # Relational Operators 2
+x = 20
+y = 20
 x == y # x is equal to y
 x != y # x is not equal to y
 x > y # x is greater than y
