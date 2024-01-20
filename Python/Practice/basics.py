@@ -37,5 +37,7 @@ string4 = "the soft air just ruffled the water and "
 string5 = "caused a pleasant motion among the trees as we approached the shore, "
 string6 = "from which it wafted the most delightful scent of flowers and hay."
 
+message = string1 + string2 + string3 + string4 + string5 + string6
+print(message)
 
 
