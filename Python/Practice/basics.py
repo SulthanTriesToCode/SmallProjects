@@ -115,18 +115,3 @@ elif grade >= 60:
   print("D")
 else:
   print("F")
-
-# Lists
-heights = [61, 70, 67, 64, 65]
-heights.append(72) # Add 72 to the end of the list
-orders = ["daisy", "buttercup", "snapdragon", "gardenia", "lily"]
-new_orders = ["lilac", "iris"]
-orders_combined = orders + new_orders # Combine orders and new_orders
-order_one= orders[0] # Select the second element from orders
-order_last = orders[-1] # Select the last element from orders
-orders_combined[0] = "tulip" # Replace the first element in orders_combined with "tulip"
-orders_combined[-1] = "marigold" # Replace the last element in orders_combined with "marigold"
-orders_combined.remove("buttercup") # Remove "buttercup" from orders_combined
-heights = [["Jenny", 61], ["Alexus", 70], ["Sam", 67], ["Grace", 64], ["Vik", 68]] # 2D List
-jenny_height = heights[0][1] # Select the element from the list heights that’s contained in another list at index 0
-heights[1][0] = "Grace" # Replace "Alexus" with "Grace" in the list heights
