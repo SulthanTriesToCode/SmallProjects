@@ -26,7 +26,7 @@ while countdown >= 0:
   countdown -= 1
 print("We have liftoff!")
 
-# WHile Loop with Lists
+# While Loop with Lists
 python_topics = ["variables", "control flow", "loops", "modules", "classes"]
 
 length = len(python_topics)
@@ -35,3 +35,15 @@ index = 0
 while index < length:
   print("I am learning about " + python_topics[index])
   index += 1
+
+# Loop Control: Break
+
+dog_breeds_available_for_adoption = ["french_bulldog", "dalmatian", "shihtzu", "poodle", "collie"]
+dog_breed_I_want = "dalmatian"
+
+for dog_breed in dog_breeds_available_for_adoption:
+  print(dog_breed)
+  if dog_breed == dog_breed_I_want:
+    print("They have the dog I want!")
+    break
+
